@@ -1,0 +1,14 @@
+{
+  "name": "visiterlog",
+  "version": "1.0.0",
+  "description": "Get the Visiter COunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
